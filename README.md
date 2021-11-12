@@ -42,7 +42,7 @@
 
 ## ```SETTING```
 
-- Owner number,Owner Name,Bot Name,And Change Apikey on [Here](https://github.com/ZansLord//blob/main/setting.json)
+- Owner number,Owner Name,Bot Name,And Change Apikey on [Here](https://github.com/ZansLord/BOTZ7/blob/main/%3E%3E%3ENAYLA%3C%3C%3C/gudang.js)
 
 
 ## ```DONASI```
