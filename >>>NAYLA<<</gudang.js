@@ -1,5 +1,5 @@
 {	
-	"prefix": "$",
+	"prefix": "#",
 
 		
 	"kelas": "8 SMP",
@@ -23,16 +23,16 @@
 	"donasi": "CIEE MAU DONASI YA BANG?🗿",
 	
 	
-	"pulsa": "YOUR_NOMER",
+	"pulsa": "085869074622",
 	
 	
-	"gopay": "YOUR_GOPAY",
+	"gopay": "085869074622",
 	
 	
-	"ovo": "YOUR_OVO",
+	"ovo": "085869074622",
 	
 	
-	"dana": "YOUR_DANA",
+	"dana": "085869074622",
 	
 	
 	"namabot": "RIMURUBOTZ",
@@ -44,19 +44,19 @@
 	"MenuWm": "RECODE BY ZANSLORD",	
 	
 	
-	"ownerNumber": "62812874133914",
+	"ownerNumber": "6285869074622",
 	
 	
-	"NumberOwner": "+62 812-8741-33914",
+	"NumberOwner": "+62 858-6907-4622",
 	
 	
-	"botNumber": "62812874133916",
+	"botNumber": "19852890148",
 	
 	
 	"note": "HAII KAK, SALAM KENAL",
 	
 	
-	"VerifyBot": "I'M FROM INDONESIA",
+	"VerifyBot": "I'M FROM KAB.BANDUNG",
 	
 	
 	"LolhumanApi": "3a5fadc9dfb7b4b1f2a5a8e3",
